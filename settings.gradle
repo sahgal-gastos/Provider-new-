@@ -1,0 +1,2 @@
+rootProject.name='Gastos merchant'
+include ':app'

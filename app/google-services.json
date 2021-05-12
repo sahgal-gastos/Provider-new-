@@ -1,0 +1,173 @@
+{
+  "project_info": {
+    "project_number": "1040449420487",
+    "firebase_url": "https://crazypocket-f95f0.firebaseio.com",
+    "project_id": "crazypocket-f95f0",
+    "storage_bucket": "crazypocket-f95f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040449420487:android:fe68022c31b18faefd92e2",
+        "android_client_info": {
+          "package_name": "com.cu.crazypocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040449420487-eum8bjl7ao1ivrksukg9sndsjf73l59m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cu.crazypocket",
+            "certificate_hash": "21dce7e5e74ae8c6ad8d35cb43e2d6f2ced0b120"
+          }
+        },
+        {
+          "client_id": "1040449420487-8m23oh4b9d87uoemep63mfuvsjsok724.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cu.crazypocket",
+            "certificate_hash": "6dbc6e00a7528fefb4a864aee14dc0d2273a8b36"
+          }
+        },
+        {
+          "client_id": "1040449420487-h4iglip3agpa4hcppam20hilgbd761da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cu.crazypocket",
+            "certificate_hash": "9ebe5c7c44e7df299a9359baadf750852d668b7d"
+          }
+        },
+        {
+          "client_id": "1040449420487-nr7ehc572uaakgq3dp29qp73isuv53jp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cu.crazypocket",
+            "certificate_hash": "fb0a699615b63e13075960427c7923444509ad6a"
+          }
+        },
+        {
+          "client_id": "1040449420487-isa641qhigtqim1un6pclhtkbruacv2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cu.crazypocket",
+            "certificate_hash": "3296520425a2a27c1fd3b9e890cfda23d2640626"
+          }
+        },
+        {
+          "client_id": "1040449420487-00ecim65dspeikai18jldclfkm65u7qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cu.crazypocket",
+            "certificate_hash": "5301d71ee5fdc3d47407a0bea6c046c9b2209714"
+          }
+        },
+        {
+          "client_id": "1040449420487-r2k2tt7saa80gsg354ph39paee6aik7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6T_CMDy8WQMrp8yr40vOXrOCHPXqdqTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040449420487-r2k2tt7saa80gsg354ph39paee6aik7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040449420487:android:aab33b79f9ea4e7afd92e2",
+        "android_client_info": {
+          "package_name": "com.cu.gastosmerchant1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040449420487-idfvkmki58ulcqb5i1dgqksbjfe4f2e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cu.gastosmerchant1",
+            "certificate_hash": "21dce7e5e74ae8c6ad8d35cb43e2d6f2ced0b120"
+          }
+        },
+        {
+          "client_id": "1040449420487-gpnpik8oll3t1gm735qi9ifkn0em82hf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cu.gastosmerchant1",
+            "certificate_hash": "6dbc6e00a7528fefb4a864aee14dc0d2273a8b36"
+          }
+        },
+        {
+          "client_id": "1040449420487-js3md3b0v4q64f3m3vdaj2tnch8ikn6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cu.gastosmerchant1",
+            "certificate_hash": "a282018ed237ad48d06072c6950c864d126628a7"
+          }
+        },
+        {
+          "client_id": "1040449420487-4ia3i4fkd9ue9vgi2g7k0hfrfcapbjil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cu.gastosmerchant1",
+            "certificate_hash": "29ee045ae021121ff2314d4ea47b68973d7fb341"
+          }
+        },
+        {
+          "client_id": "1040449420487-poq2epftr943459fthakl6c004gujeur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cu.gastosmerchant1",
+            "certificate_hash": "fb0a699615b63e13075960427c7923444509ad6a"
+          }
+        },
+        {
+          "client_id": "1040449420487-5p2s3mv9rl64p157d85ntpj0h37ua9qt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cu.gastosmerchant1",
+            "certificate_hash": "3296520425a2a27c1fd3b9e890cfda23d2640626"
+          }
+        },
+        {
+          "client_id": "1040449420487-vv8b6rq5aea25ahkmnd97f5ep5pegst2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cu.gastosmerchant1",
+            "certificate_hash": "5301d71ee5fdc3d47407a0bea6c046c9b2209714"
+          }
+        },
+        {
+          "client_id": "1040449420487-r2k2tt7saa80gsg354ph39paee6aik7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6T_CMDy8WQMrp8yr40vOXrOCHPXqdqTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040449420487-r2k2tt7saa80gsg354ph39paee6aik7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

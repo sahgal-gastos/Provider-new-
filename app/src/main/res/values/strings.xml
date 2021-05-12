@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Gastos merchant</string>
+    <string name="facebook_app_id">2473811829546526</string>
+    <string name="fb_login_protocol_scheme">fb2473811829546526</string>
+    <string name="promt">Select Your Area</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="owner_s_name">Owner\'s Name</string>
+    <string name="shop_name">Shop Name</string>
+    <string name="email">Email</string>
+    <string name="mobile">Mobile</string>
+    <string name="address">Address</string>
+    <string name="location">Location</string>
+    <string name="verify">Verify</string>
+    <string name="next"><![CDATA[Next >]]></string>
+    <string name="agreement">By clicking on the \"agree\" button, you accept our terms of agreement and privacy policy and you acknowledge the fact that you will provide 10 percent discount to our users as per our ToS. \nAny actions otherwise might result in the withdrawal of our provided services.</string>
+    <string name="username">Username</string>
+
+
+</resources>
